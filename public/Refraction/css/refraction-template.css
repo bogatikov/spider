@@ -1,0 +1,175 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+}
+
+
+/*
+ * Global add-ons
+ */
+
+.sub-header {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+    border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+    display: none;
+}
+@media (min-width: 768px) {
+    .sidebar {
+        position: fixed;
+        top: 51px;
+        bottom: 0;
+        left: 0;
+        z-index: 1000;
+        display: block;
+        padding: 20px;
+        overflow-x: hidden;
+        overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+        background-color: #f5f5f5;
+        border-right: 1px solid #eee;
+    }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+    margin-right: -21px; /* 20px padding + 1px border */
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.nav-sidebar > li > a {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #428bca;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+    padding: 20px;
+}
+@media (min-width: 768px) {
+    .main {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+.main .page-header {
+    margin-top: 0;
+}
+
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.placeholders h4 {
+    margin-bottom: 0;
+}
+.placeholder {
+    margin-bottom: 20px;
+}
+.placeholder img {
+    display: inline-block;
+    border-radius: 50%;
+}
+.alert {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    background: url("http://cs618928.vk.me/v618928034/13fac/wPRtwBzqo5E.jpg") no-repeat center 35%;
+    background-size: cover;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+.breadcrumb {
+    margin-bottom: 0px;
+    background-color: #FFFFFF;
+}
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+
+body {padding-top:50px;}
+
+.box {
+    border-radius: 3px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 10px 25px;
+    text-align: right;
+    display: block;
+    margin-top: 60px;
+}
+.box-icon {
+    background-color: #03A9F4;
+    border-radius: 50%;
+    display: table;
+    height: 100px;
+    margin: 0 auto;
+    width: 100px;
+    margin-top: -61px;
+}
+.box-icon span {
+    color: #fff;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.info h4 {
+    font-size: 26px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.info > p {
+    color: #717171;
+    font-size: 16px;
+    padding-top: 10px;
+    text-align: justify;
+}
+.info-link {
+    background-color: #03a9f4;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    color: #fff;
+    transition: all 0.5s ease 0s;
+}
+.info-link:hover {
+    background-color: #0288d1;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.16), 0 2px 5px 0 rgba(0, 0, 0, 0.12);
+    color: #fff;
+    transition: all 0.5s ease 0s;
+}
+
+.btn-primary {
+    background-color: #03A9F4;
+    border-color: #03A9F4;
+}
