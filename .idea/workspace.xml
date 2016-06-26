@@ -2,169 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366d5bdb-3e3f-47e3-82c6-447e40f5daff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/Autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider/Manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/TasksModel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider/Worker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/configs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/text.html" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\.env.example" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\.idea\blade.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Console\Commands\Inspire.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Console\Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Events\Event.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Exceptions\Handler.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Controllers\Auth\AuthController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Controllers\Auth\PasswordController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Controllers\BlogController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Controllers\Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Controllers\HomeController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Middleware\Authenticate.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Middleware\EncryptCookies.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Middleware\RedirectIfAuthenticated.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Middleware\VerifyCsrfToken.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\Requests\Request.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Http\routes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Jobs\Job.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Listeners\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Models\News.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Policies\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Providers\AppServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Providers\AuthServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Providers\EventServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\Providers\RouteServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\app\User.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\artisan" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\bootstrap\app.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\bootstrap\autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\bootstrap\cache\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\app.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\auth.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\broadcasting.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\compile.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\database.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\filesystems.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\mail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\queue.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\services.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\session.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\config\view.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\factories\ModelFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\migrations\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\migrations\2014_10_12_000000_create_users_table.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\migrations\2014_10_12_100000_create_password_resets_table.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\migrations\news\2016_03_26_225806_create_news_table.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\seeds\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\seeds\DatabaseSeeder.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\database\seeds\NewsTableSeeder.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\css\refraction-template.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\js\navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\Refraction\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\css\popuo-box.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\abt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\blog1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\blog2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\blog3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\fet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\fet2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\nav.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\search.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\social-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\vid-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\vid-img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\images\vid-play.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\js\jquery-1.11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\js\jquery-2.2.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\js\jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\js\jquery.mixitup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\js\modernizr.custom.53451.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\template\js\navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\web.config" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\assets\sass\app.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\lang\en\auth.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\lang\en\pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\lang\en\passwords.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\lang\en\validation.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\auth\emails\password.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\auth\login.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\auth\passwords\email.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\auth\passwords\reset.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\auth\register.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\blog\ajax\index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\blog\ajax\show.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\blog\index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\blog\show.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\errors\503.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\home.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\home\ajax\index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\home\index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\layouts\app.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\layouts\gamez-web.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\layouts\refraction.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\vendor\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\resources\views\welcome.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\server.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\app\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\app\public\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\debugbar\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\framework\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\framework\cache\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\framework\sessions\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\framework\views\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\storage\logs\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\tests\ExampleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\tests\TestCase.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\classes\Spider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\do.it\public\text.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="do.it.iws" />
@@ -189,68 +29,7 @@
     <favorites_list name="do.it" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="spider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="51" max-vertical-offset="272">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13325869" vertical-offset="0" max-vertical-offset="893">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Autoload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/Autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="357">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/db.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="646">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TasksModel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/TasksModel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Worker.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/Worker.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="1173">
-              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -272,7 +51,6 @@
         <option value="$PROJECT_DIR$/classes/Model.php" />
         <option value="$PROJECT_DIR$/models/TasksModel.php" />
         <option value="$PROJECT_DIR$/configs.php" />
-        <option value="$PROJECT_DIR$/classes/Spider.php" />
         <option value="$PROJECT_DIR$/logs.txt" />
         <option value="$PROJECT_DIR$/spider/Manager.php" />
         <option value="$USER_HOME$/Desktop/My scripts/Backup/backup/Backup.php" />
@@ -283,6 +61,7 @@
         <option value="$PROJECT_DIR$/lib/MultiThreading.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/spider/Worker.php" />
+        <option value="$PROJECT_DIR$/classes/Spider.php" />
       </list>
     </option>
   </component>
@@ -335,20 +114,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="do.it" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="do.it" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="do.it" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -670,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Spider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="578">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/configs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="170">
@@ -700,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2125" vertical-offset="0" max-vertical-offset="880">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/Model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1666">
@@ -721,63 +472,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Spider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51399773" vertical-offset="0" max-vertical-offset="893">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/Manager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="255">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/TasksModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="272">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="357">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="646">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05711086" vertical-offset="0" max-vertical-offset="893">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -788,10 +486,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/Worker.php">
+    <entry file="file://$PROJECT_DIR$/logs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="1173">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19036955" vertical-offset="0" max-vertical-offset="893">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -800,6 +506,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13325869" vertical-offset="0" max-vertical-offset="893">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19036955" vertical-offset="0" max-vertical-offset="893">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4568869" vertical-offset="0" max-vertical-offset="893">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/TasksModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19036955" vertical-offset="0" max-vertical-offset="893">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/Worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44792834" vertical-offset="212" max-vertical-offset="1173">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05711086" vertical-offset="0" max-vertical-offset="893">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
