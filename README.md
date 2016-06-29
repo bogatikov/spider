@@ -1,2 +1,2 @@
 # spider
-Spider-Clener
+Spider-Cleaner
